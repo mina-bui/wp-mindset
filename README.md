@@ -1,4 +1,2 @@
-# wp-mindset
-BCIT TWD WP Assignment. "Mindset" company site.
-
-Link to live version: https://mbui.bcitwebdeveloper.ca/mindset/
+# Mindset
+A fictional business website for a client company called "Mindset", showcasing their works. A BCIT TWD WordPress assignment.
